@@ -1,4 +1,4 @@
-# 🇹🇷 Türkiye ve İstanbul Motorlu Kara Taşıtı Kayıt Tahmin Projesi (2025-2029)
+#  Türkiye ve İstanbul Motorlu Kara Taşıtı Kayıt Tahmin Projesi (2025-2029)
 
 Bu proje, T.C. İçişleri Bakanlığı tarafından trafiğe yeni kaydedilen motorlu kara taşıtlarının yıllara ve yakıt türlerine göre dağılımını analiz ederek, önümüzdeki 5 yıla dair (2025-2029) tahminler üretmeyi amaçlamaktadır.
 
